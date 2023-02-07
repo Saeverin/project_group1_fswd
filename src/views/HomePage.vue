@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header :translucent="true">
       <ion-toolbar>
-        <ion-title>Test</ion-title>
+        <ion-title>Test 1</ion-title>
       </ion-toolbar>
     </ion-header>
 
